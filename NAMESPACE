@@ -2,6 +2,7 @@
 
 export(add_prefix_to_filename)
 export(rename_samsung)
+export(rename_samsung_from_whatsapp)
 importFrom(cli,cli_alert_info)
 importFrom(cli,cli_alert_success)
 importFrom(dplyr,group_by)
